@@ -15,8 +15,8 @@ numpy=1.14.6=py35_blas_openblashd3ea46f_200
 openblas=0.2.20=8
 openssl=1.0.2u=h7b6447c_0
 pip=10.0.1=py35_0
-pygame=1.9.2a0=py35_0
-python=3.5.6=hc3d631a_0
+pygame=1.9.3a0=py35_0
+python=3.6.13=hc3d631a_0
 readline=7.0=h7b6447c_5
 setuptools=40.2.0=py35_0
 sqlite=3.33.0=h62c20be_0
